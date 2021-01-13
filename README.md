@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=partitect&label=Profile%20views&color=0e75b6&style=flat" alt="partitect" /> </p>&nbsp;&nbsp;
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=partitect&column=6&margin-w=15&margin-h=15" alt="partitect" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=partitect-ma&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=partitect-ma&theme=monokai" alt="partitect" /></a> </p>
+
+https://github-profile-trophy.vercel.app/?username=partitect-ma&theme=monokai
+
 
 <p align="left"> <a href="https://twitter.com/tekalemun" target="blank"><img src="https://img.shields.io/twitter/follow/tekalemun?logo=twitter&style=for-the-badge" alt="tekalemun" /></a> </p>
 
