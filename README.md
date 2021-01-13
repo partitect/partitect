@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=partitect&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=partitect&theme=monokai" alt="partitect" /></a> </p>
 
-https://github-profile-trophy.vercel.app/?username=partitect&theme=monokai
-
-
 <p align="left"> <a href="https://twitter.com/tekalemun" target="blank"><img src="https://img.shields.io/twitter/follow/tekalemun?logo=twitter&style=for-the-badge" alt="tekalemun" /></a> </p>
 
 - 🔭 I’m currently working on [Andiamo Admin Template](https://andiamo.netlify.app/)
