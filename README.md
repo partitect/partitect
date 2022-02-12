@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter,Dart**
 
-- 💬 Ask me about **Javascript,Jquery, React Native**
+- 💬 Ask me about ** Javascript, Jquery, React Native, CSS, HTML, .NetCore**
 
 - 📫 How to reach me **telatkaya@gmail.com**
 
