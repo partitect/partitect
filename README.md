@@ -9,6 +9,6 @@
 
 - 💬 Ask me about **Javascript,Jquery, React Native**
 
-- 📫 How to reach me **partitect@yandex.com**
+- 📫 How to reach me **telatkaya@gmail.com**
 
 
