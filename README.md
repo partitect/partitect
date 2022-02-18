@@ -14,7 +14,7 @@
 
 # Telat KAYA - showmecode
 
-[![Linkedin Badge](https://img.shields.io/badge/-telatkaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/telat-kaya/)](https://www.linkedin.com/in/telatkaya/)
+[![Linkedin Badge](https://img.shields.io/badge/-telatkaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/telat-kaya/)](https://www.linkedin.com/in/telat-kaya/)
 
 
 ## Hi 👋, 
