@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Telat</h1>
+
 <h3 align="center">A frontend developer / javascript developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=partitect&label=Profile%20views&color=0e75b6&style=flat" alt="partitect" /> </p>
@@ -12,7 +12,7 @@
 - 📫 How to reach me **telatkaya@gmail.com**
 
 
-# Telat KAYA - showmecode
+<h1 align="center">Hi 👋, I'm Telat</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-telatkaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/telat-kaya-1a488a76/)](https://www.linkedin.com/in/telat-kaya-1a488a76/)
 
@@ -24,6 +24,7 @@ I'm Telat Kaya, I'm a Frontend Developer 👨‍💻 who is passionate about Jav
 - 🌱 I’m currently learning .Net Core and JS improvements
 - 💬 Ask me about: javascript, charts ,ext..
 - ⚡ Technologies: .Net, .Net Core, Javascript, Css, React, Node, React-Native ,Flutter... 
+- 📫 How to reach me **telatkaya@gmail.com**
 
 
 <p align="justify">
