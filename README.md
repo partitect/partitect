@@ -1,24 +1,11 @@
 
-<h3 align="center">A frontend developer / javascript developer from Turkey</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-telatkaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/telat-kaya-1a488a76/)](https://www.linkedin.com/in/telat-kaya-1a488a76/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=partitect&label=Profile%20views&color=0e75b6&style=flat" alt="partitect" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter,Dart**
-
-- 💬 Ask me about **Javascript, Jquery, React Native, CSS, HTML, .NetCore**
-
-- 📫 How to reach me **telatkaya@gmail.com**
 
 
 <h1 align="center">Hi 👋, I'm Telat</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-telatkaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/telat-kaya-1a488a76/)](https://www.linkedin.com/in/telat-kaya-1a488a76/)
-
-
-## Hi 👋, 
-I'm Telat Kaya, I'm a Frontend Developer 👨‍💻 who is passionate about JavaScript,.Net technologies and its entire ecosystem. 
+<h3 align="center">A Frontend Developer</h3>
 
 - 🔭 I’m currently working on JavaScript/.Net  apps/systems
 - 🌱 I’m currently learning .Net Core and JS improvements
