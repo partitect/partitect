@@ -17,15 +17,15 @@
 <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
         </a>
-        <!-- HTML -->
+
         <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Flutter"
                         src="https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=Flutter&logoColor=007acc">
         </a>
-        <!-- CSS  -->
+
         <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="React"
                         src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
         </a>
-        <!-- JavaScript -->
+
         <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Next"
                         src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
         </a>
