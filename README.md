@@ -13,10 +13,6 @@
 - ⚡ Technologies: .Net, .Net Core, Javascript, Css, React, Node, React-Native ,Flutter... 
 - 📫 How to reach me **telatkaya@gmail.com**
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=partitect&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
 ![partitect GitHub Stats](https://server.dooboo.io/github-stats-advanced/partitect)
 
 ### Technologies:
