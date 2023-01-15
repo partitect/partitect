@@ -12,7 +12,9 @@
 - 💬 Ask me about: javascript, charts , flutter, css,  pug, html, semantic-ui, bootstrap, fomantic-ui ext..
 - ⚡ Technologies: .Net, .Net Core, Javascript, Css, React, Node, React-Native ,Flutter... 
 - 📫 How to reach me **telatkaya@gmail.com**
-
+ <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
+        </a>
 ![partitect GitHub Stats](https://server.dooboo.io/github-stats-advanced/partitect)
 
 ### Technologies:
