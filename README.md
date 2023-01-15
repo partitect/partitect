@@ -7,9 +7,9 @@
 
 <h3 align="center">A Frontend Developer</h3>
 
-- 🔭 I’m currently working on JavaScript/.Net  apps/systems
+- 🔭 I’m currently working on JavaScript/.NetCore, Flutter App Developing
 - 🌱 I’m currently learning .Net Core and JS improvements
-- 💬 Ask me about: javascript, charts ,ext..
+- 💬 Ask me about: javascript, charts , flutter, css,  pug, html, semantic-ui, bootstrap, fomantic-ui ext..
 - ⚡ Technologies: .Net, .Net Core, Javascript, Css, React, Node, React-Native ,Flutter... 
 - 📫 How to reach me **telatkaya@gmail.com**
 
