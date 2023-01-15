@@ -14,14 +14,8 @@
 - 📫 How to reach me **telatkaya@gmail.com**
 
 
-<p align="justify">
-  <a href="https://telatkaya.netlify.app/">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=partitect&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
-    />
-  </a>
-</p>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=partitect&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 
 ![partitect GitHub Stats](https://server.dooboo.io/github-stats-advanced/partitect)
 
