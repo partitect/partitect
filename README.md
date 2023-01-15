@@ -33,6 +33,8 @@
 <a href="https://github.com/partitect?tab=repositories" target="_blank"><img alt="Express"
                 src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </a>
+  <a href="https://github.com/partitect?tab=repositories" target="_blank"><img alt="SASS"
+                src="https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc">
 
 <!-- Arduino -->
 <a href="https://github.com/partitect?tab=repositories" target="_blank"><img alt="SASS"
