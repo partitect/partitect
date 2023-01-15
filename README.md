@@ -12,10 +12,54 @@
 - 💬 Ask me about: javascript, charts , flutter, css,  pug, html, semantic-ui, bootstrap, fomantic-ui ext..
 - ⚡ Technologies: .Net, .Net Core, Javascript, Css, React, Node, React-Native ,Flutter... 
 - 📫 How to reach me **telatkaya@gmail.com**
- <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="JavaScript"
+
+<p>
+<a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
         </a>
+        <!-- HTML -->
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="TypeScript"
+                        src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc">
+        </a>
+        <!-- CSS  -->
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB">
+        </a>
+        <!-- JavaScript -->
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Next"
+                        src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+        </a>
+        <!-- Python -->
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="NodeJS"
+                        src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A">
+        </a>
+        <!-- C++ -->
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Express"
+                        src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+        </a>
+        <!-- Arduino -->
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="MongoDB"
+                        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+        </a>
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="GraphQl"
+                        src="https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab">
+        </a>
+        <!-- Arduino -->
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="SASS"
+                        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        </a>
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Tailwind"
+                        src="https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000">
+        </a>
+        <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Vs Code"
+                        src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white">
+        </a>
+           <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="Git"
+                        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        </a>
+</p>
 ![partitect GitHub Stats](https://server.dooboo.io/github-stats-advanced/partitect)
+
 
 ### Technologies:
 <code><img height="20" src="https://user-images.githubusercontent.com/27923376/114383049-c441a180-9b95-11eb-97ca-fe007eb03fd3.png"></code>
