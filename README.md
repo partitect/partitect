@@ -7,10 +7,10 @@
 
 <h3 align="center">A Frontend Developer</h3>
 
-- 🔭 I’m currently working on JavaScript/.NetCore, Flutter App Developing
-- 🌱 I’m currently learning .Net Core and JS improvements
-- 💬 Ask me about: javascript, charts , flutter, css,  pug, html, semantic-ui, bootstrap, fomantic-ui ext..
-- ⚡ Technologies: .Net, .Net Core, Javascript, Css, React, Node, React-Native ,Flutter... 
+- 🔭 I’m currently working on Python Deep Learning
+- 🌱 I’m currently learning Python NLP
+- 💬 Ask me about: javascript, charts , flutter, css,  pug, html, semantic-ui, bootstrap, fomantic-ui, net.core etc..
+- ⚡ Technologies: .Net, .Net Core, Python, Javascript, Css, React, Node, React-Native ,Flutter... 
 - 📫 How to reach me **telatkaya@gmail.com**
 
 <p>
@@ -48,7 +48,7 @@
 </a>
 </p>
 
-![partitect GitHub Stats](https://server.dooboo.io/github-stats-advanced/partitect)
+![partitect GitHub Stats](https://github-readme-stats.vercel.app/api?username=partitect)
 
 
 ### Technologies:
